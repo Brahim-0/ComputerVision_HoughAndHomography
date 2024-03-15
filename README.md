@@ -2,7 +2,7 @@
 
 This repository contains Python scripts for implementing computer vision algorithms. The scripts provided here offer solutions to various problems without relying on advanced libraries like skimage or OpenCV, aiming to demonstrate proficiency in algorithmic implementation.
 
-## Hough Transform Implementation (Part 1)
+## Hough Transform Implementation 
 
 ### Overview
 
@@ -24,7 +24,7 @@ To run the Hough transform implementation:
 python hough.py
 ```
 
-## RANSAC and Homography (Part 2)
+## RANSAC and Homography
 
 ### Overview
 

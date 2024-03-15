@@ -22,6 +22,7 @@ To run the Hough transform implementation:
 
 ```bash
 python hough.py
+```
 
 ## RANSAC and Homography (Part 2)
 
@@ -41,9 +42,9 @@ To run the RANSAC and homography implementation:
 
 ```bash
 python homography.py
+```
 
 The script will produce visualizations of the raw matching result, the result after RANSAC, and the final composite image.
 
-### Conclusion
 
 These scripts demonstrate proficiency in implementing computer vision algorithms from scratch, including the Hough transform and RANSAC for homography estimation. They provide valuable insights into fundamental concepts and techniques used in computer vision applications.
